@@ -1,3 +1,7 @@
+```
+This is a huge waste of time and its not even mine to begin with.
+```
+
 # Krew.io Source
  Krew.io Source is an open source engine for krew.io
 
