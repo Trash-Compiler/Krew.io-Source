@@ -19,7 +19,7 @@
     "events": "^3.2.0",
     "express": "^4.21.2",
     "express-session": "^1.18.1",
-    "google-closure-compiler": "^20250709.0.0",
+    "google-closure-compiler": "^20250924.0.0",
     "grunt": "^1.5.3",
     "grunt-contrib-clean": "^2.0.0",
     "grunt-contrib-concat": "^2.0.0",
