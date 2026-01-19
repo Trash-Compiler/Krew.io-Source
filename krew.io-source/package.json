@@ -11,7 +11,7 @@
     "closure-webpack-plugin": "^2.5.0",
     "compression": "^1.7.4",
     "connect-flash": "^0.1.1",
-    "connect-mongo": "^5.0.0",
+    "connect-mongo": "^6.0.0",
     "cross-env": "^7.0.3",
     "discord.js-light": "^4.0.0",
     "dotenv": "^16.0.0",
