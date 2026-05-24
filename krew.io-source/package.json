@@ -25,7 +25,7 @@
     "grunt-contrib-concat": "^2.0.0",
     "grunt-contrib-copy": "^1.0.0",
     "grunt-contrib-cssmin": "^5.0.0",
-    "grunt-webpack": "^7.0.0",
+    "grunt-webpack": "^8.0.0",
     "https": "^1.0.0",
     "mongoose": "^8.9.5",
     "passport": "^0.7.0",
